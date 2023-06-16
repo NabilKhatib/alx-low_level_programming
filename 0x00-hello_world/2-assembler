@@ -1,2 +1,2 @@
-#!/bin/bas
-gcc -S $CFILEh
+#!/bin/bash
+gcc -S $CFILE
